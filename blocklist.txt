@@ -1,0 +1,2 @@
+127.0.0.1 journal-laglviv.smart-school.com.ua
+127.0.0.1 naurok.com.ua
